@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import Layout from './assets/components/Layout'
-import Hero from '../src/assets/section/hero'
+import Hero from '../src/assets/section/Hero'
 import Section from '../src/assets/section/Section'
 import Mainpages from './assets/section/Mainpages'
 import Utilitypages from './assets/section/Utilitypages'
